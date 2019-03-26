@@ -1,5 +1,3 @@
 Notas de clase********
 
-12
-15
-20
+git init empezar el repo
